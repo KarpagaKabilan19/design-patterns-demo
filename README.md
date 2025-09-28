@@ -6,7 +6,6 @@ This repository contains a Java-based implementation of various design patterns,
 This project was created based on the guidelines outlined in the "2025-26 Coding Exercises" PDF provided for the placement training, completed on September 28, 2025, by Kabil.
 
 ## Project Structure
-
 design-patterns-demo/
 ├── src/
 │   └── main/
@@ -21,6 +20,8 @@ design-patterns-demo/
 │                       ├── structural/        (Adapter and Decorator patterns)
 ├── target/                (Compiled .class files)
 └── README.md             (This file)
+
+
 
 
 ## How to Run
@@ -61,8 +62,7 @@ design-patterns-demo/
      src/main/java/com/example/designpatterns/structural/decorator/SpaceshipDecorator.java ^
      src/main/java/com/example/designpatterns/structural/decorator/WeaponDecorator.java
 
-    
-Run:
+3. Run:
 Execute the program:
 bashjava -cp target/classes com.example.designpatterns.Main
 
